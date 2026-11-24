@@ -2,7 +2,7 @@
 <h3 align="center">☁️ Cloud Support Engineer @ AWS · Cape Town, South Africa 🇿🇦</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/simphiwe-machiye-594469218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:simphiw31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Simphiw31&color=blue&style=flat" />
 </p>
