@@ -29,21 +29,16 @@ I help customers design, debug and scale workloads on AWS every day — with a f
 | **Foundations** | IAM · VPC · S3 |
 | **Customer Experience** | Amazon Connect · End User Computing |
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,python,ts,js,react,nodejs,php,mysql,terraform,docker,linux,git,githubactions,vscode" />
-</p>
 
 ---
 
 ### 🌟 Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
-| 🩺 [**serverless-booking-api**](https://github.com/Simphiw31/serverless-booking-api) | Medical booking REST API with auth, deployed with IaC | API Gateway · Lambda · DynamoDB · Cognito · SAM |
-| 📦 [**event-driven-order-pipeline**](https://github.com/Simphiw31/event-driven-order-pipeline) | Fan-out messaging with DLQs and orchestrated retries | SNS · SQS · Step Functions |
-| ⚛️ [**amplify-fullstack-app**](https://github.com/Simphiw31/amplify-vite-react-template) | Full-stack React app with GraphQL backend | Amplify Gen 2 · AppSync · TypeScript |
-| 📘 [**aws-troubleshooting-playbooks**](https://github.com/Simphiw31/aws-troubleshooting-playbooks) | Practical runbooks for common AWS issues | Markdown · AWS CLI |
-| 🏥 [**MediBookings**](https://github.com/Simphiw31/MediBookings) | Original university clinic booking system | PHP · MySQL |
+| [**serverless-booking-api**](https://github.com/Simphiw31/serverless-booking-api) | Medical booking REST API with auth, deployed with IaC | API Gateway · Lambda · DynamoDB · Cognito · SAM |
+| [**event-driven-order-pipeline**](https://github.com/Simphiw31/event-driven-order-pipeline) | Fan-out messaging with DLQs and orchestrated retries | SNS · SQS · Step Functions |
+| [**amplify-fullstack-app**](https://github.com/Simphiw31/amplify-vite-react-template) | Full-stack React app with GraphQL backend | Amplify Gen 2 · AppSync · TypeScript |
+| [**MediBookings**](https://github.com/Simphiw31/MediBookings) | Original university clinic booking system | PHP · MySQL |
 
 ---
 
